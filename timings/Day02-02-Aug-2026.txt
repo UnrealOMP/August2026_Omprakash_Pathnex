@@ -1,0 +1,4 @@
+3 hour lecture: Linux commands
+1 hour: study
+1 hour: linux commands study
+1 hour: ec2 instance 
