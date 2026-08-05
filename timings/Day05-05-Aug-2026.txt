@@ -1,0 +1,2 @@
+3 hours = lecture
+1 hour = revision, evening lecture and git push daily.
