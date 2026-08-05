@@ -1,0 +1,4 @@
+3 hours = lecture
+1.5 hours = lecture revision
+1 hour = switching ec2 user and jump server study with deep anological learning about rsa algorithm for encryption and sha 256 hashing algorithm. Learnt about how server configures with the user using public key and private key.
+
