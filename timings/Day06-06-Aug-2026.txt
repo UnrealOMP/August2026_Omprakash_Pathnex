@@ -1,0 +1,4 @@
+3 hours = lecture
+2 hours = revision
+1.5 hours = previous lectre , daily git push, introduction video
+
