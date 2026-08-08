@@ -1,0 +1,3 @@
+3 hours = daily lecture
+1 hour = daily push 
+2 hours = practical perform
