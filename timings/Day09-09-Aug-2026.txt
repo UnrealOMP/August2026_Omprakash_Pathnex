@@ -1,0 +1,3 @@
+3 hours = lecture
+2 hours = git push, revision and introduction video
+
