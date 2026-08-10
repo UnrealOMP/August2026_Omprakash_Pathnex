@@ -1,0 +1,3 @@
+4 hours = daily lecture
+2 hours = revision
+1 hour = introduction video and today's topic revision
