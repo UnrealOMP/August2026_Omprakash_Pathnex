@@ -1,0 +1,3 @@
+3 hours = Morning Lecture
+2 hour = Practical and git push
+
