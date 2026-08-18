@@ -1,0 +1,10 @@
+3 hours = lecture
+3 hours = practical on helm chart
+1 hour = git push and revision
+3 hours = lecture
+3 hours = practical on helm chart
+1 hour = git push and revision
+3 hours = lecture
+3 hours = practical on helm chart
+1 hour = git push and revision
+
