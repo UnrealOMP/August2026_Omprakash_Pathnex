@@ -1,0 +1,3 @@
+3 hours = lecture
+2 hours = practical 
+2 hours git code push
