@@ -1,0 +1,3 @@
+3 hours = lecture
+2 hours = Terraform code practical
+1 hour = code push
