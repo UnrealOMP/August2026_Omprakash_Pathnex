@@ -1,0 +1,3 @@
+3 hours = Revision
+1 hour = git push
+2 hour = terraform + argocd + helm deployment
