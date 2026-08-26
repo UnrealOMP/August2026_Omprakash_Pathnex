@@ -1,0 +1,2 @@
+3 hour = moring lecture
+1 hour = git push
