@@ -1,0 +1,2 @@
+2 hour = lecture
+1 hour = git push and revision
